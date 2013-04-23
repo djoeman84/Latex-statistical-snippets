@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-P(E_{${1:d}} | E_{${2:e}}) = \dfrac{P(E_{${2:e}} | E_{${1:d}}) P(E_{${1:d}})}{P(E_{${2:e}} | E_{${1:d}}) P(E_{${1:d}}) + P(E_{${2:e}} | E_{${3:\neq d}}) P(E_{${3:\neq d}})}$0
+P(${1:D} | ${2:E}) = \dfrac{P(${2:E} | ${1:D}) P(${1:D})}{P(${2:E} | ${1:D}) P(${1:D}) + P(${2:E} | ${3:\nq D}}) P(${3:\nq D}})}$0
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bayes expanded</tabTrigger>
