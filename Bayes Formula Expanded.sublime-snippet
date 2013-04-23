@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+P(${1:D} | ${2:E}) = \dfrac{P(${2:E} | ${1:D}) P(${1:D})}{P(${2:E} | ${1:D}) P(${1:D}) + P(${2:E} | ${3:~D}) P(${3:~D})}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bayes expanded</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+</snippet>
