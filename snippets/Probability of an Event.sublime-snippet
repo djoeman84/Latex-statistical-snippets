@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-P(E_{${1:a}})$0
+P(${1:E})$0
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>probability</tabTrigger>
