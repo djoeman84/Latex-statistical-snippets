@@ -22,3 +22,4 @@ Current Snippets
 7. Confidence Interval
 8. Phi: ( "phi(z)" )
 9. Definition of Phi
+10. Binomial Definition

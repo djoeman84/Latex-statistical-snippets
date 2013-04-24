@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-{${1:n} \choose ${2:k}}$0
+P(X = ${1:i}) = {${2:n} \choose ${1:i}}p^{${1:i}}(1-p)^{${2:n}-${1:i}}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>choose</tabTrigger>
+	<tabTrigger>binomial</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.tex.latex</scope>
 </snippet>
