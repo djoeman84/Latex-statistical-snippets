@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\int\limits_{-\infty}^{${1:z}}\dfrac{1}{\sqrt{2\pi}}e^{-${2:x}^2/2}\diff ${2:x} $0
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>phi definition</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+</snippet>
