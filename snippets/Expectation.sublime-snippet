@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[\mathbb{E}\\left[${1:X}\\right]$0 ]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>expectation</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+	<description>Expectation of a value</description>
+</snippet>

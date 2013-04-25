@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[\mathrm{VAR}\left(${1:X}\right)=\\mathbb{E}\\left[\\left(${1:X}-\\mathbb{E}\\left[${1:X}\\right]\\right)^2\\right]$0 ]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>varianceDef</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+	<description>Definition of Variance</description>
+</snippet>

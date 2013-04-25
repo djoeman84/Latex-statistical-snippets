@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[\mathbb{E}\\left[${1:X}^2\\right]-\\mathbb{E}\\left[${1:X}\\right]^2$0 ]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>varianceSimple</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+	<description>Simplified Variance E[X²]-E[X]²</description>
+</snippet>
