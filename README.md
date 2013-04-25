@@ -23,3 +23,7 @@ Current Snippets
 8. Phi: ( "phi(z)" )
 9. Definition of Phi
 10. Binomial Definition
+11. Expectation ( "E[X]" )
+12. Definition of Variance ( "VAR(X)=E[(X-E[X])²]" )
+13. Full Variance ( "E[(X-E[X])²]" )
+14. Simple Variance ( "E[X²]-E[X]²" )
